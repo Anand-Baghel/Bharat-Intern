@@ -1,2 +1,2 @@
 # Bharat-Intern-1
-Portfoloi website made by Html css
+Portfolio website made by Html css
